@@ -28,7 +28,7 @@ A free and open-source app to learn to program with Godot's GDScript programming
 
 ### [BlockyScript](https://rogard.itch.io/blockyscript)
 
-Broaden your perspective on how computer programs work by programming a robot to solve tasks of different complexity by performing simple actions.
+Broaden your perspective on how computer programs work by programming a robot to solve different tasks by performing simple actions.
 
 * Languages: Serbian
 * Platforms: Linux, Windows
