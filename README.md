@@ -6,6 +6,18 @@
 
 ITEG (IT Educational Games) is a list of interactive educational games for IT.
 
+# Contents
+
+* [Algorithms](#algorithms)
+* [Godot](#godot)
+* [Programming (basics)](#programming-basics)
+* [RegEx](#regex)
+* [Shell](#shell)
+* [SQL](#sql)
+* [Typing](#typing)
+* [Version control](#version-control)
+
+
 ## Algorithms
 
 ### [SortKards](https://rogard.itch.io/sortcards) 
@@ -42,6 +54,8 @@ Regex visualizer & editor, make the regular expression easier.
 * Languages: English, Chinese Simplified
 * Platforms: Browser
 
+[&uArr; Go back to the beginning of the page &uArr;](#iteg)
+
 ## Shell
 
 ### [GameShell](https://github.com/phyver/GameShell)
@@ -67,13 +81,14 @@ Quiz-like tutorial about SQL and PostgreSQL.
 * Languages: English
 * Platforms: Browser
 
-
 ### [Dolt](https://www.dolthub.com) 
 
 A SQL database that you can fork, clone, branch, merge, push and pull just like a git repository. Real data to work with. Get you own copy locally to practice writes and schema changes. 
 
 * Languages: just English (unverified)
 * Platforms: Linux, macOS, Windows
+
+[&uArr; Go back to the beginning of the page &uArr;](#iteg)
 
 ## Typing
 
