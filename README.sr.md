@@ -19,7 +19,7 @@ ITEG (IT Educational Games) је листа интерактивних и еду
 
 ## Алгоритми
 
-### [SortKards](https://rogard.itch.io/sortcards) 
+### [SortKards](https://rogard.itch.io/sortkards) 
 
 Научи алгоритме за сортирање помоћу карата. Можеш користити концепте из ове видео игре како би вежбао алгоритме за сортирање користећи праве карте за игру.
 
