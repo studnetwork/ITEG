@@ -20,7 +20,7 @@ ITEG (IT Educational Games) is a list of interactive educational games for IT.
 
 ## Algorithms
 
-### [SortKards](https://rogard.itch.io/sortcards) 
+### [SortKards](https://rogard.itch.io/sortkards) 
 
 Learn sorting algorithms with playing cards. You can use concept of this video game to practice sorting algorithms with real playing cards.
 
