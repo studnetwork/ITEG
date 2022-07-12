@@ -12,7 +12,7 @@ ITEG (IT Educational Games) is a list of interactive educational games for IT.
 * [CSS](#css)
 * [Godot](#godot)
 * [Programming (basics)](#programming-basics)
-* [RegEx](#regex)
+* [Regular Expression](#regular-expression)
 * [Shell](#shell)
 * [Security](#security)
 * [SQL](#sql)
@@ -55,7 +55,7 @@ Broaden your perspective on how computer programs work by programming a robot to
 * Languages: Serbian
 * Platforms: Linux, Windows
 
-## RegEx
+## Regular Expression
 
 ### [regex-vis](https://regex-vis.com)
 
