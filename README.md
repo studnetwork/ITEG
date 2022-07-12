@@ -13,6 +13,7 @@ ITEG (IT Educational Games) is a list of interactive educational games for IT.
 * [Programming (basics)](#programming-basics)
 * [RegEx](#regex)
 * [Shell](#shell)
+* [Security](#security)
 * [SQL](#sql)
 * [Typing](#typing)
 * [Version control](#version-control)
@@ -64,6 +65,12 @@ A "game" to teach the Unix shell
 
 * Languages: English
 * Platforms: BSD, Linux, macOS
+
+## Security
+
+### [OverTheWire](https://overthewire.org)
+
+OverTheWire is a collection of wargames that are designed to help individuals learn and practice security concepts. You can connect to those shell-based games which are a great place for absolute beginners to start. Some of them are aimed at the absolute beginner, while others will test the skills of more developed professionals.
 
 ## SQL
 
