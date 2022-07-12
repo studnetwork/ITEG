@@ -9,6 +9,7 @@ ITEG (IT Educational Games) is a list of interactive educational games for IT.
 # Contents
 
 * [Algorithms](#algorithms)
+* [CSS](#css)
 * [Godot](#godot)
 * [Programming (basics)](#programming-basics)
 * [RegEx](#regex)
@@ -26,6 +27,15 @@ Learn sorting algorithms with playing cards. You can use concept of this video g
 
 * Languages: Serbian
 * Platforms: just Windows (for now)
+
+## CSS
+
+### [Flexbox Froggy](https://flexboxfroggy.com)
+
+A game where you help Froggy and friends by writing CSS code! Guide Froggy to the lilypad using the `justify-content` property.
+
+* Languages: Arabic, Bosnian, Bulgarian, Catalan, Chinese Simplified, Chinese Traditional, Danish, Dutch, Czech, Esperanto, Estonian, Farsi, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Macedonian, Malayalam, Polish, Portuguese, Romanian, Russian, Serbian, Spanish, Swedish, Tamil, Telugu, Turkish, Ukrainian, Vietnamese   
+* Platforms: Browser
 
 ## Godot
 
