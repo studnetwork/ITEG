@@ -18,7 +18,6 @@ ITEG (IT Educational Games) is a list of interactive educational games for IT.
 * [Typing](#typing)
 * [Version control](#version-control)
 
-
 ## Algorithms
 
 ### [SortKards](https://rogard.itch.io/sortkards) 
@@ -104,6 +103,13 @@ A SQL database that you can fork, clone, branch, merge, push and pull just like 
 Practice typing by retyping ENTIRE novels
 
 * Languages: English, Dutch, Finnish, French, German, Italian, Portuguese, Russian, Spanish
+* Platforms: Browser
+
+### [VIM Adventures](https://vim-adventures.com)
+
+VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). It's a puzzle game for practicing and memorizing VIM commands (VI is also covered). Learn VIM without a steep learning curve.
+
+* Languages: English
 * Platforms: Browser
 
 ## Version control
