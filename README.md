@@ -81,6 +81,9 @@ A "game" to teach the Unix shell
 
 OverTheWire is a collection of wargames that are designed to help individuals learn and practice security concepts. You can connect to those shell-based games which are a great place for absolute beginners to start. Some of them are aimed at the absolute beginner, while others will test the skills of more developed professionals.
 
+* Languages: English
+* Platforms: Browser (for game information) and any system that supports SSH client
+
 ### [UnderTheWire](https://underthewire.tech)
 
 UnderTheWire provides an environment where you can try several wargames that will get harder with each level and require further PowerShell proficiency. They are meant to be fun and you can use the internet to aid in your quest.
