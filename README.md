@@ -98,6 +98,13 @@ A SQL database that you can fork, clone, branch, merge, push and pull just like 
 
 ## Typing
 
+### [CLH Bash](https://www.redhat.com/en/command-line-heroes/bash/index.html)
+
+Arcade game to show your Command Line Hero skills! The game challenges you to enter as many valid commands as you can in 60 seconds! 
+
+* Languages: English, Spanish (unverified)
+* Platforms: Browser
+
 ### [TypeLit.io](https://www.typelit.io) 
 
 Practice typing by retyping ENTIRE novels
